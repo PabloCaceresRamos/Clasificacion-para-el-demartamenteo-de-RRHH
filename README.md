@@ -36,6 +36,7 @@ F1 Random Forest: 0.84
 F1 Deep Learning: 0.83
 
 ### Cuaderno Departamento_de_Recursos_Humanos_Mejora.ipynb
+https://github.com/PabloCaceresRamos/Clasificacion-para-el-demartamenteo-de-RRHH/blob/5a711580f2cdc1dcb8247ef88861d7bdbc41ebd6/Departamento_de_Recursos_Humanos_Mejora.ipynb
 
 Se ha realizado un estudio más profundo de los datos, y se han utilizado las catacteristicas más relevantes para la clasificación. Los resultados obtenidos son:
 
